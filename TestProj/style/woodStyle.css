@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+
+.woodProjectRegisterLoginSKharid{
+    float: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+
+nav ul li {
+    float: right;
+    padding: 0px 22px 0 0;
+
+}
+
+nav ul li a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+.woodProjectTaghirMoblContainer{
+
+    display: block;
+    position: relative;
+    padding: 24px;
+}
+footer {
+    display: block;
+    margin: auto;
+    position: relative;
+}
+.woodProjectFooterMoshtari{
+    border-top: solid 2px #116079;
+}
